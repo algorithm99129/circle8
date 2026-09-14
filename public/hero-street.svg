@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 540" width="1280" height="1080" role="img" aria-label="Eight shops around a street corner joined in a circle; the bakery and the gym are linked by a gift">
+  <defs>
+    <symbol id="sf" viewBox="0 0 84 70">
+      <rect x="6" y="21" width="72" height="47" rx="2" fill="#FFFFFF" stroke="#172220" stroke-width="1.5"/>
+      <rect x="12" y="40" width="16" height="14" rx="1" fill="#F5F8F6" stroke="#172220" stroke-width="1.2"/>
+      <rect x="56" y="40" width="16" height="14" rx="1" fill="#F5F8F6" stroke="#172220" stroke-width="1.2"/>
+      <rect x="35" y="44" width="14" height="24" rx="1" fill="#E3F1EB" stroke="#172220" stroke-width="1.2"/>
+      <circle cx="46" cy="57" r="1" fill="#172220"/>
+      <rect x="16" y="3" width="52" height="18" rx="3" fill="#FFFFFF" stroke="#172220" stroke-width="1.5"/>
+    </symbol>
+    <symbol id="sf-awning" viewBox="0 0 84 70">
+      <path d="M6 21h72v4a6 6 0 0 1-12 0a6 6 0 0 1-12 0a6 6 0 0 1-12 0a6 6 0 0 1-12 0a6 6 0 0 1-12 0a6 6 0 0 1-12 0z" stroke="#172220" stroke-width="1.2"/>
+    </symbol>
+    <symbol id="ic-cafe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h11v6a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V8zM15 9h2a2.5 2.5 0 0 1 0 5h-2M6.5 4v2M9.5 3v3M12.5 4v2"/></symbol>
+    <symbol id="ic-gym" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10v4M6 8v8M18 8v8M21 10v4M6 12h12"/></symbol>
+    <symbol id="ic-salon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="2.5"/><circle cx="6" cy="18" r="2.5"/><path d="M20 4 8.3 15.4M20 20 8.3 8.6"/></symbol>
+    <symbol id="ic-florist" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="10" r="2.2"/><circle cx="12" cy="5.5" r="2.2"/><circle cx="16.5" cy="10" r="2.2"/><circle cx="12" cy="14.5" r="2.2"/><circle cx="7.5" cy="10" r="2.2"/><path d="M12 17v4M12 20c-2 0-3.5-1-4-2.5M12 20c2 0 3.5-1 4-2.5"/></symbol>
+    <symbol id="ic-clinic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v8M8 12h8"/></symbol>
+    <symbol id="ic-book" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h6a2 2 0 0 1 2 2v14a2 2 0 0 0-2-2H4V4zM20 4h-6a2 2 0 0 0-2 2v14a2 2 0 0 1 2-2h6V4z"/></symbol>
+    <symbol id="ic-tailor" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 5h8v14H5zM5 8.5h8M5 15.5h8M18 3v18"/><circle cx="18" cy="7" r="1.6"/></symbol>
+    <symbol id="ic-bakery" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 13c0-4 3.5-7 8-7s8 3 8 7v4H4v-4zM8 12.5v-2M12 11.5v-2M16 12.5v-2"/></symbol>
+  </defs>
+  <rect width="640" height="540" fill="#F5F8F6"/>
+  <rect x="130" y="286" width="380" height="28" fill="#EDF3F0"/>
+  <rect x="306" y="182" width="28" height="238" fill="#EDF3F0"/>
+  <path d="M140 300H500M320 190V412" stroke="#D6DFDB" stroke-width="1.5" stroke-dasharray="8 8"/>
+  <circle cx="262" cy="258" r="9" fill="#E3F1EB" stroke="#12715B" stroke-width="1.2"/>
+  <circle cx="378" cy="342" r="9" fill="#E3F1EB" stroke="#12715B" stroke-width="1.2"/>
+  <ellipse cx="320" cy="300" rx="240" ry="165" fill="none" stroke="#12715B" stroke-width="2" stroke-dasharray="7 7" opacity="0.7"/>
+  <path d="M150 183Q320 290 490 183" fill="none" stroke="#12715B" stroke-width="4" stroke-linecap="round"/>
+  <g transform="translate(320 237)">
+    <circle r="17" fill="#FFFFFF" stroke="#12715B" stroke-width="1.5"/>
+    <rect x="-8" y="-4" width="16" height="12" rx="1.5" fill="#B7791F"/>
+    <rect x="-10" y="-8" width="20" height="5" rx="1.5" fill="#B7791F" stroke="#172220" stroke-width="0.8"/>
+    <path d="M0-8V8M-4-8c0-3 4-3 4 0c0-3 4-3 4 0" fill="none" stroke="#FFFFFF" stroke-width="1.4"/>
+  </g>
+  <rect x="248" y="254" width="144" height="20" rx="10" fill="#FFFFFF" stroke="#D6DFDB"/>
+  <text x="320" y="268" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">free coffee ⇄ free week</text>
+
+  <g transform="translate(278 100)"><use href="#sf" width="84" height="70"/><use href="#sf-awning" width="84" height="70" fill="#12715B"/><use href="#ic-cafe" x="34" y="4" width="16" height="16" color="#172220"/></g>
+  <text x="320" y="185" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Café</text>
+  <g transform="translate(448 148)"><use href="#sf" width="84" height="70"/><use href="#sf-awning" width="84" height="70" fill="#B7791F"/><use href="#ic-gym" x="34" y="4" width="16" height="16" color="#172220"/></g>
+  <text x="490" y="233" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Gym</text>
+  <g transform="translate(518 265)"><use href="#sf" width="84" height="70"/><use href="#sf-awning" width="84" height="70" fill="#E3F1EB"/><use href="#ic-salon" x="34" y="4" width="16" height="16" color="#172220"/></g>
+  <text x="560" y="350" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Salon</text>
+  <g transform="translate(448 382)"><use href="#sf" width="84" height="70"/><use href="#sf-awning" width="84" height="70" fill="#12715B"/><use href="#ic-florist" x="34" y="4" width="16" height="16" color="#172220"/></g>
+  <text x="490" y="467" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Florist</text>
+  <g transform="translate(278 430)"><use href="#sf" width="84" height="70"/><use href="#sf-awning" width="84" height="70" fill="#E3F1EB"/><use href="#ic-clinic" x="34" y="4" width="16" height="16" color="#172220"/></g>
+  <text x="320" y="515" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Clinic</text>
+  <g transform="translate(108 382)"><use href="#sf" width="84" height="70"/><use href="#sf-awning" width="84" height="70" fill="#12715B"/><use href="#ic-book" x="34" y="4" width="16" height="16" color="#172220"/></g>
+  <text x="150" y="467" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Bookshop</text>
+  <g transform="translate(38 265)"><use href="#sf" width="84" height="70"/><use href="#sf-awning" width="84" height="70" fill="#E3F1EB"/><use href="#ic-tailor" x="34" y="4" width="16" height="16" color="#172220"/></g>
+  <text x="80" y="350" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Tailor</text>
+  <g transform="translate(108 148)"><use href="#sf" width="84" height="70"/><use href="#sf-awning" width="84" height="70" fill="#B7791F"/><use href="#ic-bakery" x="34" y="4" width="16" height="16" color="#172220"/></g>
+  <text x="150" y="233" text-anchor="middle" font-size="11" fill="#5E6E68" font-family="IBM Plex Mono, Menlo, Consolas, monospace">Bakery</text>
+</svg>
